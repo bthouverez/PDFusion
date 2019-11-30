@@ -1,0 +1,36 @@
+\hypertarget{classmergePDF_1_1MainQtWindow}{}\section{merge\+P\+D\+F.\+Main\+Qt\+Window Class Reference}
+\label{classmergePDF_1_1MainQtWindow}\index{merge\+P\+D\+F.\+Main\+Qt\+Window@{merge\+P\+D\+F.\+Main\+Qt\+Window}}
+
+
+Inheritance diagram for merge\+P\+D\+F.\+Main\+Qt\+Window\+:
+% FIG 0
+
+
+Collaboration diagram for merge\+P\+D\+F.\+Main\+Qt\+Window\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classmergePDF_1_1MainQtWindow_a13b708aab1a87a53a5dcf71781c2c095}\label{classmergePDF_1_1MainQtWindow_a13b708aab1a87a53a5dcf71781c2c095}} 
+def {\bfseries \+\_\+\+\_\+init\+\_\+\+\_\+} (self)
+\item 
+\mbox{\Hypertarget{classmergePDF_1_1MainQtWindow_a84f964ed45492d056e9f6a59e6016cd4}\label{classmergePDF_1_1MainQtWindow_a84f964ed45492d056e9f6a59e6016cd4}} 
+def {\bfseries init\+UI} (self)
+\item 
+\mbox{\Hypertarget{classmergePDF_1_1MainQtWindow_a2e46ac9bb569651b0455557817ba0611}\label{classmergePDF_1_1MainQtWindow_a2e46ac9bb569651b0455557817ba0611}} 
+def {\bfseries getfile} (self)
+\item 
+\mbox{\Hypertarget{classmergePDF_1_1MainQtWindow_a206566ad2335974b7b2b3525987d65e2}\label{classmergePDF_1_1MainQtWindow_a206566ad2335974b7b2b3525987d65e2}} 
+def {\bfseries process} (self)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classmergePDF_1_1MainQtWindow_ab382f7a5268d17ab7dcdbcedcdd60ac3}\label{classmergePDF_1_1MainQtWindow_ab382f7a5268d17ab7dcdbcedcdd60ac3}} 
+{\bfseries tf}
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+merge\+P\+D\+F.\+py\end{DoxyCompactItemize}
